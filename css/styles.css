@@ -1,0 +1,15 @@
+body {
+  background-color: fuchsia;
+  color: aliceblue;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+
+#planets dd {
+    display: none;
+    font-size: 25px;
+}
+/* visibility: hidden for accordian a space */
+.earth {
+    width: 240%;
+}
